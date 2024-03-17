@@ -1,0 +1,66 @@
+span .img0{
+    width: 3000px;
+}
+.menu span{
+    margin: 20px  ;
+}
+body{width: 900px;   
+margin: 0 auto;
+background-color: rgb(221, 227, 212);
+}
+.trangchu{
+    margin-top: 30px;
+}
+ .ing0{
+    width: 600px;
+    height: 500px;
+    float: left;
+}
+.ing2{
+    width: 280px;
+    height: 166px;
+    float: right;
+    margin-top: 1px;
+}
+.body1{
+    margin: 20px auto  ;
+}
+.tieude{
+    border: solid rgb(221, 227, 212) 1px;
+    margin-top: 20px;
+    width: 900px ;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+}
+.tieude .tieude1{
+    color: burlywood;
+}
+.tieude .tieude2{
+text-transform: uppercase;
+font-size: 30px;
+}
+.img3{
+    width: 30px;
+    float: left;
+}
+.img4{
+    width: 30px;
+}
+.img5{
+    width: 30px;
+}
+.body2{
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+}
+.body3{
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+}
+.hang1{
+    border: solid 1px wheat;background-color: white;margin-left: 10px
+}
