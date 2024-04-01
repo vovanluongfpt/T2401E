@@ -1,0 +1,66 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+}
+.menu2{
+    display: flex;
+    margin-top: 100px;
+}
+.menu span{
+    margin: 20px  ;}
+.menu3 li{
+    list-style: none;
+    margin-top: 18px;
+    }
+    foter{
+        display: flex;
+        width: 100%;
+        margin: 20px auto;
+    }
+    .sdt{
+        width: 4%;
+    }
+    .email{
+        width: 5%   ;
+    }
+    .logo{
+        width: 20%;
+    }
+    .itagram{
+        width: 50px;
+        height: 47px;
+    }
+    .foter2 img{
+        width: 30%;
+        margin-left: 30px;
+    }
+    .foter3 img{
+        width: 70%;
+        margin-top: 20px;
+    }
+    .foter4 img{
+        width: 40%;
+        height: 40%;
+        margin-top: 10px;
+    }
+    .foter1{
+        width: 25%;
+    }
+    .foter2{
+        width: 25%;    
+    }
+    .foter3{
+        width: 25%;
+        margin: 5px;
+        text-align: center;
+        font-size: 20px;
+    }
+    .foter4{
+        width: 25%;
+        margin: 5px;
+        text-align: center;
+    }
+    .foter2 li{
+        list-style: none;
+        margin: 5px;
+    }

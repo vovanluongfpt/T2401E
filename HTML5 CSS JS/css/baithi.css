@@ -1,0 +1,119 @@
+form{
+    width: 800px;
+    height: 50%;
+    margin: 0 auto;
+    border: solid 1px azure;
+}
+table{
+    width: 800px;
+    height: 700px;
+    background-color: azure;
+}
+.tr1 td{
+    font-size: 30px;
+    text-align: center  ;
+    margin-left: 100px;
+}
+.td2{   
+    width: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+.login{ 
+    text-align: center;
+    background-color: rgb(34, 109, 171);
+ margin-left: 28%;
+    font-size: 25px;
+    color: white;
+    font-size: 45px;
+}   
+.login img{
+    width: 3%;
+    margin: 5px 10px 0 0;
+}
+.facebook{
+    text-align: center;
+    background-color: blue;
+    margin-left:28%;
+    font-size: 40px;
+    color: white;
+    
+}
+.facebook1{
+    text-align: center;
+    background-color: blue;
+    margin-left:28%;
+    font-size: 40px;
+    color: white;
+    display: block  ;
+    width: 350px;
+}
+.facebook img{
+    width: 3%;
+    margin: 5px 10px 0 0;
+}
+.td3{
+    text-align: center;
+}
+.name img{
+width: 20px;
+border: 1px solid;
+background-color: dimgrey   ;
+}
+.email img{
+    width: 20px;
+    border: 1px solid;
+    }
+    .sdt img{
+        width: 20px;
+        border: 1px solid;
+        background-color: dimgrey   ;
+        }
+         .password1 img{
+            width: 20px;
+            border: 1px solid;
+            background-color: dimgrey   ;
+            }
+            .congviec img{
+                width: 25px;
+                border: 1px solid;
+            }
+         tr{
+            margin: 10px auto;
+         }   
+         .name{
+            text-align: center  ;
+         }
+         .email{
+            text-align: center;
+         }
+         .sdt{
+            text-align: center;
+            margin-left: 100px;
+         }
+         .congviec{
+            text-align: center;
+         }
+         .password1{
+            text-align: center  ;
+         }
+         .congviec{
+            width: 100px;
+            font-size: 10px;
+         }
+         input{
+            font-size: 25px;
+         }
+         .sdt1{
+            width: 150px;
+         }
+         select{
+        width: 320px;
+        font-size: 25px;
+         }
+         .foter{
+            text-align: center;
+         }
+         .foter a{  
+            color: aqua;
+         }

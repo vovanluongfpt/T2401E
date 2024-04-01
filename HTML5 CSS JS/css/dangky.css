@@ -1,0 +1,70 @@
+body{
+background-color: rgb(218, 239, 187);   ;
+}
+form{
+    width: 500px;
+    height: 700px;
+    margin: 10% auto;
+    border: solid bisque;   
+    background-color: bisque;
+position: relative;}
+    table {
+        margin: 50px;
+    }
+    input{
+        margin: 20px;
+    }
+    .sober{
+        width: 80%;
+        margin-left: 10%;
+        font-size: 100%;
+    }
+    b{
+        font-size: 50px;
+        margin-left: 30%;
+        padding: 20px 0;
+        position: absolute;
+    }
+    .submit{
+        margin-left:30%;
+        font-size: 30px;
+        color: rgb(196, 189, 189);
+        background-color:rgb(14, 23, 180);
+        border-style: none;
+        border-radius: 20%;
+    }
+    @media (max-width: 540px){
+        form{
+            width:70%;
+            height: 30%;    
+            margin: 30% auto;
+            border: solid bisque;   
+            background-color: bisque;
+        position: relative;}
+            table {
+                margin: 1px;
+            }
+            input{
+                margin: 10px;
+            }
+            .sober{
+                width: 90%;
+                margin-left: 4.7%;
+                font-size: 90%;
+            }
+            b{ color: crimson;  
+                font-size: 25px;
+                margin-left:38%;
+                padding: 20px 0;
+                position: absolute;
+                padding: 4%;
+            }
+            .submit{
+                margin-left:45%;
+                font-size: 100%;
+                color: rgb(235, 231, 200);
+                background-color:rgb(14, 23, 180);
+                border-style: none;
+                border-radius: 20%;
+    }
+}
