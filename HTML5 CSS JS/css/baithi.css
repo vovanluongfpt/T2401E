@@ -2,12 +2,12 @@ form{
     width: 800px;
     height: 50%;
     margin: 0 auto;
-    border: solid 1px azure;
+    border: solid 1px rgb(196, 199, 200);
 }
 table{
     width: 800px;
     height: 700px;
-    background-color: azure;
+    background-color: white;
 }
 .tr1 td{
     font-size: 30px;
@@ -20,33 +20,39 @@ table{
     text-align: center;
 }
 .login{ 
+   border-radius: 5px;
     text-align: center;
-    background-color: rgb(34, 109, 171);
+    background-color: rgb(9, 40, 164);
  margin-left: 28%;
     font-size: 25px;
     color: white;
-    font-size: 45px;
+    font-size: 35px;
+    height: 20px;
 }   
 .login img{
     width: 3%;
     margin: 5px 10px 0 0;
 }
 .facebook{
-    text-align: center;
-    background-color: blue;
+    text-align: center; 
+    background-color: rgb(48, 91, 210);
     margin-left:28%;
-    font-size: 40px;
+    font-size: 35px;
     color: white;
+    border-radius: 5px;
+    height: 20px;
     
 }
 .facebook1{
     text-align: center;
-    background-color: blue;
-    margin-left:28%;
-    font-size: 40px;
+    background-color:  rgb(9, 40, 164);   
+    font-size: 35px;
     color: white;
     display: block  ;
     width: 350px;
+    border-radius:5px;
+    height: 45px;
+    width: 100%;
 }
 .facebook img{
     width: 3%;
@@ -56,26 +62,37 @@ table{
     text-align: center;
 }
 .name img{
-width: 20px;
+width: 25px;
 border: 1px solid;
 background-color: dimgrey   ;
+margin-bottom: -10px;
+height: 33px;
 }
 .email img{
     width: 20px;
     border: 1px solid;
+    margin-bottom: -9px;
+height: 32px;
     }
     .sdt img{
         width: 20px;
         border: 1px solid;
         background-color: dimgrey   ;
+        margin-bottom: -7px;
+        height: 29px;
         }
          .password1 img{
             width: 20px;
             border: 1px solid;
             background-color: dimgrey   ;
+            margin-bottom: -9px;
+            height: 32px;
             }
             .congviec img{
-                width: 25px;
+                width: 20px;
+                height: 20px;
+                margin-bottom: -7px;
+height: 29px;
                 border: 1px solid;
             }
          tr{
@@ -105,7 +122,7 @@ background-color: dimgrey   ;
             font-size: 25px;
          }
          .sdt1{
-            width: 150px;
+            width: 190px;
          }
          select{
         width: 320px;
@@ -115,5 +132,8 @@ background-color: dimgrey   ;
             text-align: center;
          }
          .foter a{  
-            color: aqua;
+            color: rgb(110, 141, 232);
+         }
+         .sle1{
+            width: 120px;
          }
